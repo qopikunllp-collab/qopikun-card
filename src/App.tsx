@@ -148,7 +148,7 @@ export default function App() {
             </Badge>
             <Badge>
               <span>👤</span>
-              <span>Founder: Arjun</span>
+              <span>Founders: Arjun & Mrs. Nancy J</span>
             </Badge>
           </div>
 
