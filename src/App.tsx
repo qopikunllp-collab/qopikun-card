@@ -129,9 +129,6 @@ export default function App() {
 
           {/* Header */}
           <div className="text-center space-y-3 mb-8">
-            <h1 className="text-3xl md:text-4xl font-display font-bold text-brand-blue tracking-tight">
-              Qopikun Global Services Pvt. Ltd.
-            </h1>
             <div className="text-lg md:text-xl font-semibold text-brand-accent italic">
               Trusted Partners in Aerospace Quality, Inspection & Training
             </div>
@@ -148,7 +145,7 @@ export default function App() {
             </Badge>
             <Badge>
               <span>👤</span>
-              <span>Founders: Arjun & Mrs. Nancy J</span>
+              <span>Founders and Managing Directors: Arjun & Mrs. Nancy J</span>
             </Badge>
           </div>
 
